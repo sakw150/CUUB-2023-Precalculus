@@ -1,7 +1,7 @@
 # CUUB-2023-Precalculus
 University of Colorado Boulder Upward Bound Program
 
-Instructor: Sam Kwon (sakw9986@colorado.edu)
+\textbf{Instructor:} Sam Kwon (sakw9986@colorado.edu)
 
 Instructor Assistant: Molly McFaul. (momc2273@colorado.edu) 
 
