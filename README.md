@@ -11,3 +11,6 @@ University of Colorado Boulder Upward Bound Program
 
 
 **Course Description:** The goal of this course is to help students develop computational and critical thinking skills through introduction of topics covered in precalculus. Topics introduced in this course include functions (polynomial, logarithmic, exponential, trigonometric functions), trigonometric identities and applications, vectors and matrices, and limits and continuity. This course is intended to provide a brief overview of topics covered in pre-calculus so students have some exposure before starting the official course.
+
+
+In this repository, students will find homework assignments, information about the project, and information presented during lecture. 
